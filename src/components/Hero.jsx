@@ -19,12 +19,9 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Ved</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I am a passionate life-long learner, <br className='sm:block hidden' />
-            Constantly striving to expand my knowledge and skills.
-            I approach everything I do with a strong sense of purpose, 
-            Ensuring that every action I take brings me closer to my goals. 
-            And while success is important, my ultimate goal in life is 
-            To find happiness and fulfillment in all that I do.
+            A passionate life-long learner, <br className='sm:block hidden' />
+            With a strong sense of purpose,
+            And finds happiness and fulfillment in all that I do.
           </p>
         </div>
       </div>
