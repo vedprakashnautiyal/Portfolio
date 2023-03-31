@@ -6,10 +6,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeplot":"npm run build",
-    "deploy":"gh-pages -d build",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeplot":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
