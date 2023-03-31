@@ -1,10 +1,13 @@
 {
+  "homepage": "https://vedprakashnautiyal.github.io/Portfolio",
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeplot":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
