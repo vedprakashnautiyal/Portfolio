@@ -20,8 +20,9 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             A passionate life-long learner, <br className='sm:block hidden' />
-            With a strong sense of purpose,
-            And finds happiness and fulfillment in all that I do.
+            With a strong sense of purpose,<br>
+            And a goal of finding <br>
+            Happiness and fulfillment in all that I do.
           </p>
         </div>
       </div>
